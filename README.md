@@ -11,4 +11,4 @@
   
 - 📫 How to reach me: deelcoding@outlook.com
   
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I went on my first plane ride and cruise in 2024!
