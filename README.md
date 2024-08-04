@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://twitter.com/deelcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deelcoding" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dacotah-deel-a7a490158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dacotah-deel-a7a490158" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deelcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deelcoding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/deelcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deelcoding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
