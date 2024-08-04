@@ -32,7 +32,7 @@
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deelcoding&show_icons=true&locale=en&layout=compact" alt="deelcoding" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deelcoding&show_icons=true&locale=en" alt="deelcoding" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deelcoding&show_icons=true&locale=en" alt="deelcoding" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deelcoding&" alt="deelcoding" /></p>
 </p>
