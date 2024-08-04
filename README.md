@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I went on my first plane ride and cruise in 2024!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/deelcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deelcoding" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/dacotah-deel-a7a490158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dacotah-deel-a7a490158" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucn7zj2misgz9rlnd--4js5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucn7zj2misgz9rlnd--4js5w" height="30" width="40" /></a>
